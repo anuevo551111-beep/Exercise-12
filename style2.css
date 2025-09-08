@@ -1,0 +1,44 @@
+body{
+    font-family: Arial;
+    text-align: center;
+}
+.block{
+    margin: 40px auto;  
+}
+.img{
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin: 2px;
+}
+.span{
+    display: inline;
+    font-size: 14px;
+    margin-right: 5px;
+}
+.greenbox{
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    text-align: left;
+    background-color: lightgreen;
+}
+.redbox{
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    text-align: left;
+    background-color: red;
+}
+.cntt{
+    display: block;
+}
+
+footer{
+    background-color: blue;
+    clear:both;
+    text-align: center;
+    padding: 20px;
+}
